@@ -4,8 +4,6 @@ A proof-of-concept overlay application that displays a floating UI  only visible
 Built for  educational purposes only  to understand macOS graphics stacks, transparency layers, and system-level visibility.
 
 ## 📦 Project Structure
-
-```
 screen-assit/
 ├── AppDelegate.swift          # (optional) Swift-based Metal overlay (experimental)
 ├── overlay_app.py            # ✅ Main PyObjC app that creates the stealth overlay window
